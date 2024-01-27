@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/BlumeHome/Collabration Center/Page_Blume Global/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "span.MuiBadge-root \u003e svg.MuiSvgIcon-root \u003e path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/BlumeHome/Collabration Center/Page_Blume Global/path_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/BlumeHome/Collabration Center/Page_Blume Global/path_1",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "button.new-conversation-btn \u003e svg.MuiSvgIcon-root \u003e path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/BlumeHome/Collabration Center/Page_Blume Global/path_1_CSS.png"
+    }
+  ]
+}
